@@ -3,6 +3,9 @@
 ![Github stars](https://img.shields.io/github/stars/xingyujie/flyos.svg)
 ![Github forks](https://img.shields.io/github/forks/xingyujie/flyos.svg)
 
+|[简体中文](https://github.com/FuckOS/FlyOSDoc_Purified/blob/master/CN.md)|[русский](https://github.com/FuckOS/FlyOSDoc_Purified/blob/master/RU.md)|
+|------|------|
+
 ---
 
 ## 介绍
