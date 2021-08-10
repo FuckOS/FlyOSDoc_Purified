@@ -1,9 +1,7 @@
 # FlyOS 中文官方文档 · 改
 
-        <div>
-            <img src="https://img.shields.io/github/stars/xingyujie/flyos.svg" alt="Github stars">
-            <img src="https://img.shields.io/github/forks/xingyujie/flyos.svg" alt="Github forks">
-        </div>
+![Github stars](https://img.shields.io/github/stars/xingyujie/flyos.svg)
+![Github forks](https://img.shields.io/github/forks/xingyujie/flyos.svg)
 
 ---
 
